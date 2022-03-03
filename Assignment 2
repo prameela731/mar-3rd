@@ -1,0 +1,6 @@
+nam=("susi","sasi","pandu")
+names=("mouni","dillu","deloite")
+print(nam, names)
+
+
+('susi', 'sasi', 'pandu') ('mouni', 'dillu
